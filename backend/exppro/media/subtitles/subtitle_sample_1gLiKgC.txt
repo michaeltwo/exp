@@ -1,0 +1,19 @@
+1
+00:00:01,000 --> 00:00:03,500
+Hello, welcome to our tutorial!
+
+2
+00:00:04,000 --> 00:00:07,000
+In this video, we will learn how to use subtitles.
+
+3
+00:00:07,500 --> 00:00:10,000
+Let's get started with the basics of adding text.
+
+4
+00:00:10,500 --> 00:00:14,000
+Each subtitle has a start and end time, and some text in between.
+
+5
+00:00:14,500 --> 00:00:17,000
+This is how you create subtitle files for videos.
